@@ -1,0 +1,1 @@
+<div id="form-errors" style="color: red;"></div>
